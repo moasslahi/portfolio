@@ -1,0 +1,17 @@
+body {
+	background-color: rgba(0,102,204,0.75);
+	text-align: center;
+}
+
+h1, h3 {
+	color: white;
+	text-align: center;
+	font-family: Georgia;
+}
+
+li {
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+}
